@@ -1,0 +1,3 @@
+git config --global user.email "naspud972012@gmaail.com"
+ git config --global user.name "PaulSebastianNaspud"
+ git config credential.username "PaulSebastianNaspudVivar"
